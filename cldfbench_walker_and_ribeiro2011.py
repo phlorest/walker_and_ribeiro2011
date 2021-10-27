@@ -8,18 +8,6 @@ class Dataset(phlorest.Dataset):
     id = "walker_and_ribeiro2011"
 
     def cmd_makecldf(self, args):
-        """
-summary.trees: original/aruakout
-	nexus trees -t -c $< $@
-
-posterior.trees: original/Aruakrrw.trees.txt.zip
-	unzip -c $< > tmp
-	nexus trees -n 1000 -c tmp -o $@
-	rm tmp
-
-data.nex:
-	cp original/ArawakNexusFile.txt $@
-        """
         self.init(args)
         with self.nexus_summary() as nex:
             self.add_tree_from_nexus(
