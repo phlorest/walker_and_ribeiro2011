@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
-    "dc:title": "Phlorest phylogeny derived from Walker & Ribeiro 2011 'Arawakan (Walker & Ribeiro 2011)'",
+    "dc:title": "Phlorest phylogeny derived from Walker & Ribeiro2011'Arawakan (Walker & Ribeiro 2011)'",
     "dcat:accessURL": "https://github.com/phlorest/walker_and_ribeiro2011",
     "prov:wasDerivedFrom": [
         {
@@ -27,20 +27,20 @@
         {
             "rdf:about": "https://github.com/phlorest/walker_and_ribeiro2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "90ed911",
+            "dc:created": "8fa50c3",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-57-g459b6703ab",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
