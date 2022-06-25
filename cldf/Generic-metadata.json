@@ -11,7 +11,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Arawakan [araw1281]",
+        "family": "Arawakan",
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/walker_and_ribeiro2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "8fa50c3",
+            "dc:created": "7bf3207",
             "dc:title": "Repository"
         },
         {
