@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Walker & Ribeiro 2011 'Arawakan (Walker & Ribeiro 2011)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,20 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "R. S. Walker"
+        },
+        {
+            "name": "L. A. Ribeiro"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
