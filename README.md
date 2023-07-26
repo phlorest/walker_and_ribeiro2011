@@ -1,4 +1,6 @@
-# Dataset walker_and_ribeiro2011
+# Phlorest phylogeny derived from Walker & Ribeiro 2011 'Bayesian phylogeography of the Arawak expansion in lowland South America'
+
+[![CLDF validation](https://github.com/phlorest/walker_and_ribeiro2011/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/walker_and_ribeiro2011/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -9,8 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Arawakan language family computed from a bayesian analysis scaled by substitutions.
 
-Available online at 10.1098/rspb.2010.2579
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Source available online at https://doi.org/10.1098/rspb.2010.2579
 
 
 ## CLDF Datasets
@@ -21,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/walker_and_ribeiro2011/main/summary_tree.svg)

@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
-    "dc:title": "Phlorest phylogeny derived from Walker & Ribeiro 2011 'Arawakan (Walker & Ribeiro 2011)'",
+    "dc:title": "Phlorest phylogeny derived from Walker & Ribeiro 2011 'Bayesian phylogeography of the Arawak expansion in lowland South America'",
     "dcat:accessURL": "https://github.com/phlorest/walker_and_ribeiro2011",
     "prov:wasDerivedFrom": [
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/walker_and_ribeiro2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "e805a38",
+            "dc:created": "f1caa44",
             "dc:title": "Repository"
         },
         {
