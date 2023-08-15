@@ -1,70 +1,7 @@
 #NEXUS
-[Study reference: 2011	Walker, R. S., L. A. Ribeiro. Bayesian phylogeography of the Arawak expansion in lowland South America. Proceedings of the Royal Society B]
 BEGIN TAXA;
-	DIMENSIONS NTAX=60;
-	TAXLABELS
-Achagua
-Amuesha
-Apurina
-Asheninka
-Baniwa
-Bare
-Baure
-Chamicuro
-Garifuna
-Guajiro
-Ignaciano
-Inapari
-IslandCarib
-Kinikinau
-Kurripako
-Lokono
-Matchiguenga
-Mehinaku
-Nomatsiguenga
-Palikur
-Paresi
-Piapoco
-Piro
-Resigaro
-Taino
-Tariana
-Terena
-Trinitario
-Wapixana
-Guarekena
-Waura
-Yavitero
-Yawalapiti
-Yukuna
-Paraujano
-Cabiyari
-Mandawaka
-Guinau
-Baniva
-Mawayana
-Warekena
-Saraveka
-Waraicu
-Marawa
-Marawan
-Bahuana
-Manao
-Kauixana
-Wainuma
-Mariate
-Maipure
-Arua
-EnaweneMawe
-Cabiai
-Yumana
-Pase
-Anauya
-Caquinte
-Manxineri
-Karutana
-
-;
+DIMENSIONS NTAX=60;
+TAXLABELS Achagua Amuesha Apurina Asheninka Baniwa Bare Baure Chamicuro Garifuna Guajiro Ignaciano Inapari IslandCarib Kinikinau Kurripako Lokono Matchiguenga Mehinaku Nomatsiguenga Palikur Paresi Piapoco Piro Resigaro Taino Tariana Terena Trinitario Wapixana Guarekena Waura Yavitero Yawalapiti Yukuna Paraujano Cabiyari Mandawaka Guinau Baniva Mawayana Warekena Saraveka Waraicu Marawa Marawan Bahuana Manao Kauixana Wainuma Mariate Maipure Arua EnaweneMawe Cabiai Yumana Pase Anauya Caquinte Manxineri Karutana;
 END;
 BEGIN CHARACTERS;
 DIMENSIONS NCHAR=694;
