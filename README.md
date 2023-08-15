@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Walker & Ribeiro 2011 'Bayesian phylogeography of the Arawak expansion in lowland South America'
 
 [![CLDF validation](https://github.com/phlorest/walker_and_ribeiro2011/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/walker_and_ribeiro2011/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250306.svg)](https://doi.org/10.5281/zenodo.8250306)
 
 ## How to cite
 
