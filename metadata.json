@@ -12,6 +12,7 @@
     "family": "Arawakan",
     "cldf": "https://doi.org/10.5281/zenodo.8177536",
     "missing": {
-        "characters": "not readily available."
+        "characters": "not readily available.",
+        "artefacts": "not readily available."
     }
 }
